@@ -2,6 +2,8 @@
 
 ## Models were trained on a public available CCIC dataset
 
+This dataset comprises 40,000 RGB images with a resolution of $227 \times 227$ pixels. The dataset is divided into two categories: positive (crack) and negative (non-crack), each containing 20,000 images.
+
 ## How to consume the models (from the dataset)
 
 We used Keras version 2.6, with Tensorflow 2.6 as backend, Python 3.6, along with CUDA Toolkit version 11.0. 
